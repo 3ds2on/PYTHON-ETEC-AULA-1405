@@ -1,0 +1,5 @@
+printf("Digite a primeira letra do seu nome: ")
+scanf("%c",&letra)
+printf("A primeira letra do seu nome e: %c \n",letra);
+system("pause")
+
